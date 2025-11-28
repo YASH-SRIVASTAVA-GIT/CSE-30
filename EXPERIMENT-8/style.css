@@ -1,0 +1,146 @@
+.container{
+   display:flex;
+   display:grid;
+   margin-top:70px;
+   margin-left:5%;
+   margin-right:5%;
+   width:auto;
+   height:450px;
+   border:6px solid #291f1f;
+   background:transparent;
+   
+}
+.boxes{
+   display:flex;
+   flex-direction:row;
+   justify-content:space-around;
+   padding:40px 60px;
+}
+.box1{
+   display:flex;
+   border:5px solid rgb(18, 181, 236);
+   width:400px;
+   flex-direction:column;
+   border-radius: 6%;
+   margin-left:30px;
+   cursor:pointer;
+}
+.box1:hover{
+   transform:translateY(-4px);
+   box-shadow: 2px 2px 18px rgba(20, 30, 20, 40);
+}
+.box2{
+   display:flex;
+   flex-direction:column;
+   border:5px solid rgb(18, 181, 236);
+   width:400px;
+   border-radius: 5%;
+   cursor:pointer;
+
+}
+.box2:hover{
+   transform:translateY(-4px);
+   box-shadow: 2px 2px 18px rgba(20, 30, 20, 40);
+}
+.box3{
+   display:flex;
+   flex-direction:column;
+   border:5px solid rgb(18, 181, 236);
+   width:400px;
+   border-radius:5%;
+   margin-right:30px;
+   cursor:pointer;
+
+}
+.box3:hover{
+   transform:translateY(-4px);
+   box-shadow: 2px 2px 18px rgba(20, 30, 20, 40);
+}
+.logo-1{
+   margin-top:px;
+   width:90px;
+   height:90px;
+   background-color:rgb(70, 204, 253);
+   color:#fff;
+   border-radius:90%;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   font-weight:300;
+   font-size:18px;
+   margin:30px auto 0px;
+}
+.name-1{
+   margin:auto;
+}
+.detail-1{
+   
+   font:bold;
+   margin:auto ;
+}
+.logo-1{
+   margin-top:px;
+   width:90px;
+   height:90px;
+   background-color:rgb(70, 204, 253);
+   color:#fff;
+   border-radius:90%;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   font-weight:300;
+   font-size:18px;
+   margin:30px auto 12px;
+}
+.name-1{
+   margin:0 auto 0;
+}
+.detail-1{
+   
+   font:bold;
+   margin: 10px auto ;
+}
+.logo-2{
+   margin-top:px;
+   width:90px;
+   height:90px;
+   background-color:rgb(70, 204, 253);
+   color:#fff;
+   border-radius:90%;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   font-weight:300;
+   font-size:18px;
+   margin:30px auto 12px;
+}
+.name-2{
+   margin:0 auto 0;
+}
+.detail-2{
+   
+   font:bold;
+   margin: 10px auto ;
+}
+.logo-3{
+   margin-top:px;
+   width:90px;
+   height:90px;
+   background-color:rgb(70, 204, 253);
+   color:#fff;
+   border-radius:90%;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   font-weight:300;
+   font-size:18px;
+   margin:30px auto 12px;
+}
+.name-3{
+   margin:0 auto 0;
+}
+.detail-3{
+   
+   font:bold;
+   margin: 10px auto ;
+}
