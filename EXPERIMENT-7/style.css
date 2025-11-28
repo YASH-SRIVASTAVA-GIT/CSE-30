@@ -2,9 +2,6 @@
             text-align:center;
             margin-right:200px;
          }
-         
-         
-         
          .block{
             font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             display:block;
@@ -18,7 +15,6 @@
             margin-right:100px;
          }
          .inline{
-            
             display:inline;
             background-color:rgb(116, 255, 116);
             color:white; 
@@ -29,10 +25,8 @@
             display:inline-block;
             background-color:rgb(174, 116, 255);
             color:white; 
-            
             padding:15px;
             margin-left:15px;
-            
          }
          .float{
             display:inline;
@@ -40,6 +34,5 @@
             color:white; 
             padding:10px;
             margin-left:15px;
-            
          }
          
